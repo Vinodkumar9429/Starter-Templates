@@ -1,0 +1,5 @@
+@import url("https://api.fontshare.com/v2/css?f[]=switzer@400,700&f[]=ranade@1&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
