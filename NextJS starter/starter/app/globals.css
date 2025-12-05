@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme inline{
+  --font-general-sans : var(--font-general-sans);
+}
+
+@layer base { *{ margin: 0; padding: 0; box-sizing: border-box; } body { @apply overflow-x-hidden; } }
